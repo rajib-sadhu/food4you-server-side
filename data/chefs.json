@@ -1,0 +1,498 @@
+[
+    {
+        "id": 1,
+        "name": "Massimo Bottura",
+        "image": "https://img.freepik.com/free-photo/mid-shot-man-standing-near-baked-pizza-dough-with-ingredients_23-2148785693.jpg?w=740&t=st=1683111964~exp=1683112564~hmac=7939108ec50a7dbcd4326be09d0b7273d9ed1206774cbd1582e63005eb93f901",
+        "experience": 30,
+        "numOfRecipes": 250,
+        "likes": 20000,
+        "description": "Massimo Bottura is an Italian chef and restaurateur. He is the owner and chef of Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. He is known for his innovative and contemporary approach to Italian cuisine.",
+        "recipes": [
+            {
+                "name": "Tortellini in brodo",
+                "rating":5,
+                "image": "https://img.freepik.com/free-photo/front-view-delicious-dumpling-soup-with-greens-green-surface_140725-31175.jpg?w=1060&t=st=1683112166~exp=1683112766~hmac=6e2e122fa865410f73b28dc2e2706d7b911251898cc57d3a8bc30f253cf05650",
+                "ingredients": [
+                    "beef broth",
+                    "tortellini pasta",
+                    "parmesan cheese",
+                    "nutmeg",
+                    "black pepper"
+                ],
+                "instructions": [
+                    "Heat beef broth in a pot",
+                    "Cook tortellini pasta in broth until al dente",
+                    "Add parmesan cheese, nutmeg, and black pepper to taste before serving"
+                ],
+                "description": "A traditional Italian pasta dish made with tortellini pasta in a warm beef broth."
+            },
+            {
+                "name": "Tagliatelle al ragù",
+                "rating":4,
+                "image": "https://img.freepik.com/free-photo/lifestyle-food-pasta-yummy-gourmet_1350-50.jpg?w=1060&t=st=1683112199~exp=1683112799~hmac=d26d203bae9e923f8225d3f36e360b9eb6e943acf612f8cbc5cf798cf64980dd",
+                "ingredients": [
+                    "tagliatelle pasta",
+                    "ground beef",
+                    "onion",
+                    "carrot",
+                    "celery",
+                    "tomato paste",
+                    "red wine",
+                    "beef broth",
+                    "olive oil"
+                ],
+                "instructions": [
+                    "Saute onion, carrot, and celery in olive oil",
+                    "Add ground beef and cook until browned",
+                    "Add tomato paste and red wine",
+                    "Add beef broth and simmer for 2 hours",
+                    "Cook tagliatelle pasta until al dente",
+                    "Serve ragù sauce over pasta"
+                ],
+                "description": "A classic Italian pasta dish made with a meaty ragù sauce served over tagliatelle pasta."
+            },
+            {
+                "name": "Pesto alla genovese",
+                "rating":4,
+                "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=1060&t=st=1683112224~exp=1683112824~hmac=ccbf645c5866e7ccd582e1cebc246ecf5a00db27e2172631bfbfc16d3fa6ba06",
+                "ingredients": [
+                    "basil leaves",
+                    "pine nuts",
+                    "garlic",
+                    "parmesan cheese",
+                    "olive oil"
+                ],
+                "instructions": [
+                    "Combine basil leaves, pine nuts, and garlic in a food processor",
+                    "Slowly add olive oil while blending",
+                    "Stir in parmesan cheese",
+                    "Serve over pasta or use as a dip or spread"
+                ],
+                "description": "A traditional Italian sauce made with fresh basil, pine nuts, garlic, and parmesan cheese."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Gennaro Contaldo",
+        "image": "https://img.freepik.com/free-photo/studio-portrait-positive-cook-male-holds-eggplant_613910-9899.jpg?w=360&t=st=1683111985~exp=1683112585~hmac=a138838c6da792de7a9d83d284fedede8c63a79e6cf75ef09f0cafa10447d740",
+        "experience": 40,
+        "numOfRecipes": 300,
+        "likes": 18000,
+        "description": "Gennaro Contaldo is an Italian chef and restaurateur. He is known for his traditional and rustic approach to Italian cuisine and has written several cookbooks and hosted multiple cooking shows.",
+        "recipes": [
+            {
+                "name": "Lasagne al forno",
+                "rating":4,
+                "image": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-14066.jpg?w=740&t=st=1683112276~exp=1683112876~hmac=00d36156988d2cf60f022427a99e671db3926bb5eba3b18e2c3f7e07a3635897",
+                "ingredients": [
+                    "lasagne pasta",
+                    "ground beef",
+                    "onion",
+                    "garlic",
+                    "tomato sauce",
+                    "béchamel sauce",
+                    "mozzarella cheese",
+                    "parmesan cheese",
+                    "olive oil"
+                ],
+                "instructions": [
+                    "Cook lasagne pasta until al dente",
+                    "Saute onion and garlic in olive oil",
+                    "Add ground beef and cook until browned",
+                    "Add tomato sauce and simmer for 30 minutes",
+                    "Assemble lasagne layers with pasta, meat sauce, béchamel sauce, mozzarella cheese, and parmes an cheese",
+                    "Bake in the oven at 375°F for 30-40 minutes"
+                ],
+                "description": "A classic Italian baked pasta dish made with layers of lasagne pasta, meat sauce, béchamel sauce, and cheese."
+            },
+            {
+                "name": "Sghetti carbonarapa",
+                "rating":4.5,
+                "image": "https://img.freepik.com/free-photo/italian-pasta-plate-tablecloth_23-2148357211.jpg?w=1060&t=st=1683112298~exp=1683112898~hmac=d7f415286d9e605dba5c55e048918b68b0c0d94582291e0bee7b1c52dce9148b",
+                "ingredients": [
+                    "spaghetti pasta",
+                    "guanciale or bacon",
+                    "egg yolks",
+                    "pecorino romano cheese",
+                    "black pepper",
+                    "olive oil"
+                ],
+                "instructions": [
+                    "Cook spaghetti pasta until al dente",
+                    "Cook guanciale or bacon in a pan until crispy",
+                    "Combine egg yolks, pecorino romano cheese, and black pepper in a bowl",
+                    "Drain pasta and add to pan with guanciale or bacon",
+                    "Remove from heat and add egg mixture while stirring quickly",
+                    "Serve immediately"
+                ],
+                "description": "A classic Italian pasta dish made with spaghetti, crispy guanciale or bacon, and a creamy egg and cheese sauce."
+            },
+            {
+                "name": "Focaccia bread",
+                "rating":5,
+                "image": "https://img.freepik.com/free-photo/macro-picture-cheese-pie-white-wall_176420-7281.jpg?w=1060&t=st=1683112330~exp=1683112930~hmac=15ca33353afcbf9c5f722d13206c24b6e6ba952a612f336f5cdb1be008d3ee27",
+                "ingredients": [
+                    "flour",
+                    "yeast",
+                    "salt",
+                    "water",
+                    "olive oil",
+                    "rosemary"
+                ],
+                "instructions": [
+                    "Combine flour, yeast, and salt in a bowl",
+                    "Add water and olive oil and mix until dough forms",
+                    "Knead dough for 10 minutes",
+                    "Place dough in a greased pan and let rise for 1 hour",
+                    "Press rosemary into the top of the dough",
+                    "Bake in the oven at 450°F for 20-25 minutes"
+                ],
+                "description": "A traditional Italian bread made with a simple dough, olive oil, and rosemary."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Lidia Bastianich",
+        "image": "https://img.freepik.com/free-photo/happy-professional-male-chef-looking-camera_23-2147863770.jpg?w=360&t=st=1683111998~exp=1683112598~hmac=052a46555aa184e52fcbbe3903131eb0483ac6d83662c1a7bc62f98267c7f7be",
+        "experience": 50,
+        "numOfRecipes": 350,
+        "likes": 22000,
+        "description": "Lidia Bastianich is an Italian-American chef, restaurateur, and author. She has written several cookbooks and hosted multiple cooking shows on television.",
+        "recipes": [
+            {
+                "name": "Risotto alla milanese",
+                "rating":4,
+                "image": "https://img.freepik.com/free-photo/front-view-delicious-tomato-omelette-with-greens-fresh-vegetables-white-background-morning-bread-milk-lunch-color_140725-157994.jpg?w=1060&t=st=1683112525~exp=1683113125~hmac=ae613c72ae2f0c8f2c67a1112c051afd36405dcddcb8300ad36ba93b3ab4ef77",
+                "ingredients": [
+                    "arborio rice",
+                    "chicken broth",
+                    "onion",
+                    "butter",
+                    "saffron",
+                    "parmesan cheese"
+                ],
+                "instructions": [
+                    "Saute onion in butter in a large pan",
+                    "Add arborio rice and cook for 2 minutes",
+                    "Add chicken broth one cup at a time, stirring constantly",
+                    "Add saffron and continue stirring and adding broth until rice is cooked and creamy",
+                    "Stir in parmesan cheese before serving"
+                ],
+                "description": "A classic Italian rice dish made with arborio rice, chicken broth, saffron, and parmesan cheese."
+            },
+            {
+                "name": "Osso buco alla milanese",
+                "rating":3.5,
+                "image": "https://img.freepik.com/free-photo/fish-fillets-tomato-sauce-served-with-peas-lemon-herbs_140725-5808.jpg?w=360&t=st=1683112558~exp=1683113158~hmac=469e51a61a744ebbfa365319448be8071c02b8473e36cc6844d37be51df902ca",
+                "ingredients": [
+                    "veal shanks",
+                    "onion",
+                    "carrot",
+                    "celery",
+                    "tomato paste",
+                    "white wine",
+                    "beef broth",
+                    "olive oil",
+                    "garlic",
+                    "lemon zest",
+                    "parsley"
+                ],
+                "instructions": [
+                    "Saute onion, carrot, and celery in olive oil",
+                    "Season veal shanks with salt and pepper and sear in the same pan",
+                    "Add tomato paste and white wine",
+                    "Add beef broth and simmer for 2 hours",
+                    "Add garlic, lemon zest, and parsley to the pan before serving"
+                ],
+                "description": "A classic Italian meat dish made with tender veal shanks braised in a flavorful sauce of onion, carrot, celery, tomato paste, and white wine."
+            },
+            {
+                "name": "Tiramisu",
+                "rating":4.5,
+                "image": "https://img.freepik.com/free-photo/tiramisu-savoyardi-cookies-espresso-mascarpone-cheese-rum-cinnamon-strawberry-side-view_141793-4166.jpg?w=740&t=st=1683112580~exp=1683113180~hmac=dfde1baec623377f1bff5300c2a86504119285406ae49e4b0e4325a34335da32",
+                "ingredients": [
+                    "ladyfingers",
+                    "espresso",
+                    "marsala wine",
+                    "mascarpone cheese",
+                    "eggs",
+                    "sugar",
+                    "cocoa powder"
+                ],
+                "instructions": [
+                    "Combine espresso and marsala wine in a bowl",
+                    "Dip ladyfingers in the espresso mixture and layer in a pan",
+                    "Combine mascarpone cheese, eggs, and sugar in a bowl",
+                    "Spread half of the cheese mixture over the ladyfingers",
+                    "Add another layer of ladyfingers and top with the remaining cheese mixture",
+                    "Sprinkle cocoa powder over the top",
+                    "Refrigerate for at least 2 hours before serving"
+                ],
+                "description": "A classic Italian dessert made with layers of espresso-soaked ladyfingers and a creamy mascarpone cheese filling, topped with cocoa powder."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Mario Batali",
+        "image": "https://img.freepik.com/free-photo/high-angle-chef-kitchen-cooking_23-2148471870.jpg?w=360&t=st=1683112015~exp=1683112615~hmac=be3c09329c932d87ed5eaaf3926690ab12229fcd2d25609bde3dbcf65e09079f",
+        "experience": 30,
+        "numOfRecipes": 250,
+        "likes": 18000,
+        "description": "Mario Batali is an American chef, restaurateur, and media personality. He has written several cookbooks and hosted multiple cooking shows on television.",
+        "recipes": [
+            {
+                "name": "Spaghetti alla carbonara",
+                "rating":5,
+                "image": "https://img.freepik.com/free-photo/top-view-cheesy-pasta-white-plate_181624-23315.jpg?w=1060&t=st=1683112679~exp=1683113279~hmac=75a5272ee04b6adea10fb29410c56c772782b1484d6426233e36e638855cf69a",
+                "ingredients": [
+                    "spaghetti pasta",
+                    "guanciale or pancetta",
+                    "egg yolks",
+                    "pecorino romano cheese",
+                    "black pepper",
+                    "olive oil"
+                ],
+                "instructions": [
+                    "Cook spaghetti pasta until al dente",
+                    "Cook guanciale or pancetta in a pan until crispy",
+                    "Combine egg yolks, pecorino romano cheese, and black pepper in a bowl",
+                    "Drain pasta and add to pan with guanciale or pancetta",
+                    "Remove from heat and add egg mixture while stirring quickly",
+                    "Serve immediately"
+                ],
+                "description": "A classic Italian pasta dish made with spaghetti, crispy guanciale or pancetta, and a creamy egg and cheese sauce."
+            },
+            {
+                "name": "Bruschetta",
+                "rating":5,
+                "image": "https://img.freepik.com/free-photo/bruschetta-chopping-board_144627-17674.jpg?w=1060&t=st=1683112695~exp=1683113295~hmac=822424f9db1287142ec05e2ee735ffeb72ebcc339239444bbd4364d6f7dae5d3",
+                "ingredients": [
+                    "rustic bread",
+                    "tomatoes",
+                    "garlic",
+                    "basil",
+                    "olive oil",
+                    "balsamic vinegar"
+                ],
+                "instructions": [
+                    "Slice bread and brush with olive oil",
+                    "Grill or toast bread until crispy",
+                    "Rub garlic on one side of the bread",
+                    "Top bread with chopped tomatoes, garlic, and basil",
+                    "Drizzle with olive oil and balsamic vinegar before serving"
+                ],
+                "description": "A classic Italian appetizer made with toasted bread topped with chopped tomatoes, garlic, and basil, drizzled with olive oil and balsamic vinegar."
+            },
+            {
+                "name": "Chicken cacciatore",
+                "rating":3.5,
+                "image": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine_2829-4415.jpg?w=826&t=st=1683112715~exp=1683113315~hmac=21d12dca8a148d02d4be375018e33721336fec91e8b1e377c7e80ef1dd7615ac",
+                "ingredients": [
+                    "chicken thighs",
+                    "onion",
+                    "red bell pepper",
+                    "tomato paste",
+                    "canned tomatoes",
+                    "white wine",
+                    "olive oil",
+                    "garlic",
+                    "rosemary"
+                ],
+                "instructions": [
+                    "Season chicken thighs with salt and pepper",
+                    "Brown chicken in olive oil in a large pan",
+                    "Remove chicken from pan and saute onion and red bell pepper in the same pan",
+                    "Add garlic and rosemary and cook for 1 minute",
+                    "Add tomato paste and white wine and cook for 2 minutes",
+                    "Add canned tomatoes and return chicken to the pan",
+                    "Simmer for 30-40 minutes until chicken is cooked through and sauce is thickened"
+                ],
+                "description": "A hearty Italian stew made with chicken thighs, onions, red bell peppers, and a flavorful tomato sauce."
+            },
+            {
+                "name": "Osso buco",
+                "rating":4.5,
+                "image": "https://img.freepik.com/free-photo/front-view-delicious-mushroom-soup-inside-plate-dark-space_140725-79287.jpg?w=1060&t=st=1683112742~exp=1683113342~hmac=bc0857a3822b5936da1b643c6676bfb24a5370f3fe2965da5ce892acc3da72f0",
+                "ingredients": [
+                    "veal shanks",
+                    "onion",
+                    "carrot",
+                    "celery",
+                    "canned tomatoes",
+                    "white wine",
+                    "chicken broth",
+                    "garlic",
+                    "rosemary",
+                    "bay leaves",
+                    "flour"
+                ],
+                "instructions": [
+                    "Season veal shanks with salt and pepper and coat with flour",
+                    "Brown shanks in olive oil in a large pan",
+                    "Remove shanks from pan and saute onion, carrot, and celery in the same pan",
+                    "Add garlic, rosemary, and bay leaves and cook for 1 minute",
+                    "Add canned tomatoes and white wine and cook for 2 minutes",
+                    "Return shanks to the pan and add chicken broth",
+                    "Simmer for 2-3 hours until meat is falling off the bone"
+                ],
+                "description": "A classic Italian meat dish made with braised veal shanks in a flavorful tomato and vegetable sauce."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Antonella",
+        "image": "https://img.freepik.com/free-photo/chef-thinking-white-background_1368-2838.jpg?w=740&t=st=1683112041~exp=1683112641~hmac=8858953dbf1133102ec80a0c3c61a4d4975aa250871581c3d670f64fed2407aa",
+        "experience": 15,
+        "numOfRecipes": 62,
+        "likes": 98,
+        "recipes": [
+            {
+                "name": "Fettuccine Alfredo",
+                "rating":4.5,
+                "image": "https://img.freepik.com/free-photo/closeup-cooked-fettuccine-with-cream-spices-bowl-lights_181624-30653.jpg?w=1060&t=st=1683112823~exp=1683113423~hmac=8f8ba440578ddbba049312c2709c4293ac528c45b2c7ebdcb14226b3e24dad40",
+                "ingredients": [
+                    "fettuccine pasta",
+                    "heavy cream",
+                    "butter",
+                    "parmesan cheese",
+                    "salt",
+                    "black pepper"
+                ],
+                "instructions": [
+                    "Cook fettuccine pasta according to package instructions",
+                    "In a saucepan, heat heavy cream and butter until melted",
+                    "Add parmesan cheese, salt, and black pepper and stir until cheese is melted and sauce is smooth",
+                    "Add cooked pasta to the sauce and toss to coat",
+                    "Serve with additional parmesan cheese and black pepper"
+                ],
+                "description": "A classic Italian pasta dish made with fettuccine pasta in a creamy parmesan cheese sauce."
+            },
+            {
+                "name": "Saltimbocca alla Romana",
+                "rating":4,
+                "image": "https://img.freepik.com/free-photo/close-up-meatballs-plate-garnished-with-tomato-sauce-grated-parmesan-parsley_141793-2042.jpg?w=360&t=st=1683112841~exp=1683113441~hmac=5c97f09d8ccbe2a2a0bbb329e924559114f28d91ef0c581df26cb70a35f67693",
+                "ingredients": [
+                    "veal cutlets",
+                    "prosciutto",
+                    "sage leaves",
+                    "flour",
+                    "butter",
+                    "white wine"
+                ],
+                "instructions": [
+                    "Place a slice of prosciutto and a sage leaf on each veal cutlet",
+                    "Secure with toothpicks",
+                    "Coat cutlets with flour",
+                    "Heat butter in a large pan over medium-high heat",
+                    "Add cutlets and cook until golden brown on both sides",
+                    "Add white wine to the pan and cook for 2-3 minutes until sauce is reduced and thickened"
+                ],
+                "description": "A classic Roman dish made with veal cutlets wrapped in prosciutto and sage, cooked in a white wine sauce."
+            },
+            {
+                "name": "Torta della Nonna",
+                "rating":5,
+                "image": "https://img.freepik.com/free-photo/galette-des-rois-wooden-table-traditional-epiphany-cake-france_123827-19823.jpg?w=1060&t=st=1683112868~exp=1683113468~hmac=7adb89891980c60ecddf75d93939bc08c4807a47c5b602f7a9a968839d3d8119",
+                "ingredients": [
+                    "shortcrust pastry",
+                    "milk",
+                    "sugar",
+                    "flour",
+                    "egg yolks",
+                    "lemon zest",
+                    "pine nuts"
+                ],
+                "instructions": [
+                    "Preheat oven to 180°C",
+                    "Line a baking dish with shortcrust pastry",
+                    "In a saucepan, heat milk with sugar and lemon zest",
+                    "Add flour and egg yolks and mix well",
+                    "Pour mixture into the pastry shell",
+                    "Sprinkle pine nuts on top of the filling",
+                    "Bake for about 45 minutes until golden brown"
+                ],
+                "description": "A traditional Italian dessert made with shortcrust pastry and filled with a creamy lemon custard, topped with toasted pine nuts."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Marco",
+        "image": "https://img.freepik.com/free-photo/portrait-male-chef-kitchen-holding-plate-food_23-2149646275.jpg?w=360&t=st=1683112065~exp=1683112665~hmac=be49079d606d3a3dd55abaddfec24859569179f28761ac79e42d363de824d187",
+        "experience": 10,
+        "numOfRecipes": 50,
+        "likes": 82,
+        "recipes": [
+            {
+                "name": "Tiramisu",
+                "rating":4,
+                "image":"https://img.freepik.com/free-photo/front-view-sweet-chocolate-cake_23-2148834059.jpg?w=1060&t=st=1683112952~exp=1683113552~hmac=4a1c1ea44bcf0a8366f948e526f54ba574bd1149d281ca07a89d1e115cb6e5ef",
+                "ingredients": [
+                    "ladyfingers",
+                    "mascarpone cheese",
+                    "heavy cream",
+                    "espresso coffee",
+                    "sugar",
+                    "cocoa powder"
+                ],
+                "instructions": [
+                    "In a bowl, mix mascarpone cheese, heavy cream, and sugar until smooth",
+                    "Dip ladyfingers in espresso coffee and layer them in a serving dish",
+                    "Spread a layer of the mascarpone mixture over the ladyfingers",
+                    "Repeat layers of ladyfingers and mascarpone mixture",
+                    "Cover and refrigerate for at least 2 hours",
+                    "Sprinkle cocoa powder on top before serving"
+                ],
+                "description": "A classic Italian dessert made with layers of espresso-soaked ladyfingers and a creamy mascarpone cheese filling."
+            },
+            {
+                "name": "Pesto Genovese",
+                "rating":4,
+                "image":"https://img.freepik.com/free-photo/eating-pasta_23-2147985243.jpg?w=1060&t=st=1683112974~exp=1683113574~hmac=43900b19623d6dffdec1bd767ab6be89c037f40c5f5f4713b66e29b9ff4dae02",
+                "ingredients": [
+                    "basil leaves",
+                    "pine nuts",
+                    "garlic",
+                    "parmesan cheese",
+                    "extra-virgin olive oil",
+                    "salt"
+                ],
+                "instructions": [
+                    "In a food processor, combine basil leaves, pine nuts, garlic, and parmesan cheese",
+                    "Pulse until finely chopped",
+                    "Slowly pour in extra-virgin olive oil while pulsing",
+                    "Add salt to taste"
+                ],
+                "description": "A classic Italian sauce made with fresh basil, pine nuts, garlic, and parmesan cheese, blended with extra-virgin olive oil to create a smooth and flavorful pesto sauce."
+            },
+            {
+                "name": "Risotto alla Milanese",
+                "rating":3,
+                "image": "https://img.freepik.com/free-photo/seafood-risotto-with-tomato-sauce-garnished-with-shrimp_141793-1954.jpg?w=1060&t=st=1683112768~exp=1683113368~hmac=e67ac7d49309548ae4246cd28fcf6ed53f4e0edd29b84198ec8ad4e6ff86db34",
+                "ingredients": [
+                    "arborio rice",
+                    "onion",
+                    "white wine",
+                    "saffron",
+                    "chicken broth",
+                    "butter",
+                    "parmesan cheese"
+                ],
+                "instructions": [
+                    "In a large pot, saute onion in butter until translucent",
+                    "Add arborio rice and cook for 1 minute",
+                    "Add white wine and cook until evaporated",
+                    "Add saffron and a ladle of chicken broth",
+                    "Stir constantly and add more broth as needed",
+                    "Cook for about 20-25 minutes until rice is tender and creamy",
+                    "Stir in parmesan cheese before serving"
+                ],
+                "description": "A classic Italian rice dish made with arborio rice cooked in chicken broth with saffron, and finished with butter and parmesan cheese."
+            }
+        ]
+    }
+]
